@@ -134,7 +134,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: 
+  background: https://raw.githubusercontent.com/fmgjz/fmgjz.github.io/hexo/pics/bgd/20221202bgd.jpg
 
 post_meta:
   page: # Home Page
@@ -306,16 +306,6 @@ waline:
   pageview: false
   option:
 
-# utterances
-# https://utteranc.es/
-utterances:
-  repo:
-  # Issue Mapping: pathname/url/title/og:title
-  issue_term: pathname
-  # Theme: github-light/github-dark/github-dark-orange/icy-dark/dark-blue/photon-dark
-  light_theme: github-light
-  dark_theme: photon-dark
-
 # Facebook Comments Plugin
 # https://developers.facebook.com/docs/plugins/comments/
 facebook_comments:
@@ -324,14 +314,6 @@ facebook_comments:
   pageSize: 10 # The number of comments to show
   order_by: social # social/time/reverse_time
   lang: zh_CN # Language en_US/zh_CN/zh_TW and so on
-
-# Twikoo
-# https://github.com/imaegoo/twikoo
-twikoo:
-  envId:
-  region:
-  visitor: false
-  option:
 
 # Giscus
 # https://giscus.app/
@@ -342,21 +324,6 @@ giscus:
   theme:
     light: light
     dark: dark
-  option:
-
-# Remark42
-# https://remark42.com/docs/configuration/frontend/
-remark42:
-  host: # Your Host URL
-  siteId: # Your Site ID
-  option:
-
-# Artalk
-# https://artalk.js.org/guide/frontend/config.html
-artalk:
-  server:
-  site:
-  visitor: false
   option:
 
 # Chat Services
@@ -375,29 +342,11 @@ chatra:
   enable: false
   id:
 
-# tidio
-# https://www.tidio.com/
-tidio:
-  enable: false
-  public_key:
-
-# daovoice
-# http://daovoice.io/
-daovoice:
-  enable: false
-  app_id:
-
 # gitter
 # https://gitter.im/
 gitter:
   enable: false
   room:
-
-# crisp
-# https://crisp.chat/en/
-crisp:
-  enable: false
-  website_id:
 
 # messenger
 # https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin/
