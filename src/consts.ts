@@ -172,12 +172,41 @@ export const donate = {
  */
 export const friendshipLinks =
   [
-    // {
-    //   name: "Cirry's Blog",
-    //   url: 'https://cirry.cn',
-    //   avatar: "https://cirry.cn/avatar.png",
-    //   description: '前端开发的日常'
-    // },
+     {
+       name: "冬夜",
+       url: 'https://ex-tasty.com',
+       avatar: "https://raw.githubusercontent.com/fmgjz/blogsource/refs/heads/main/images/site_friends_avartar/esuGov_avatar2.webp",
+       description: '辣妹'
+     },
+
+     {
+       name: "Himenosenaa",
+       url: 'https://himenosena.eu.org',
+       avatar: 'https://raw.githubusercontent.com/fmgjz/blogsource/refs/heads/main/images/site_friends_avartar/sena.webp',
+       description: '天无二日、めと是我心中唯一的太阳[Sena限定]'
+     },
+
+     {
+       name: "Keigo",
+       url: 'https://astro.sliverkeigo.top',
+       avatar: 'https://www.sliverkeigo.top/_next/image?url=https%3A%2F%2Fsliverkeigo.top%2Fapi%2Fv2%2Fobjects%2Favatar%2Fd7mox619mtisq9vtxt.png&w=384&q=75',
+       description: '那天早上的霧散了,不止早上,不止霧'
+     },
+
+     {
+       name: "汐",
+       url: 'https://blog.cloudti.de',
+       avatar: 'https://blog.cloudti.de/front.svg',
+       description: '我们自此通往繁星'
+     },
+
+     {
+       name: "kiramux",
+       url: 'https://notes.kiramux.com/',
+       avatar: '',
+       description: '一般路过画画群友'
+     }
+
   ]
 
 /**
